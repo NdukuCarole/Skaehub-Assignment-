@@ -1,3 +1,4 @@
+
 Question 1
 
 The first step is to import  datetime ,date, time delta
@@ -18,7 +19,9 @@ print the result
 
 Question 3
 Import numpy
-print the array
+Input the number of array
+if they are less than 5 it just prints the output
 Compute the size of array
+if they are more than 5 if printout the output
 
-![Project Name (3)](https://user-images.githubusercontent.com/54279456/123379241-80581900-d596-11eb-9092-25f0a52aa21e.gif)
+![Project Name (4)](https://user-images.githubusercontent.com/54279456/123386469-6242e680-d59f-11eb-97e9-782d3f31d060.gif)
